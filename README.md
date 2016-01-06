@@ -1,6 +1,6 @@
 # Software Engineering for Industry 
 
-Welcome to the Software Engineering for Industry course, run by @rchatley at Imperial College London. We have decided to publish the topics we are covering each week, so that anyone interested can study along with us.
+Welcome to the Software Engineering for Industry course, run by Robert Chatley at Imperial College London. We have decided to publish the topics we are covering each week, so that anyone interested can study along with us.
 
 The course covers 7 topics, and for each we will publish here some suggested reading, normally one academic paper, and something like a blog or article by a current practitioner or company.
 
