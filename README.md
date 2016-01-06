@@ -6,4 +6,4 @@ The course covers 7 topics, and for each we will publish here some suggested rea
 
 ## Topics
 
-- Topic 1 : [Mock Objects](https://github.com/softengindustry/Topics/1-mock-objects.md)
+- Topic 1 : [Mock Objects](https://github.com/softengindustry/Topics/blob/master/1-Mock-Obects.md)
