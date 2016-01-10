@@ -4,6 +4,8 @@ Welcome to the Software Engineering for Industry course, run by Robert Chatley a
 
 The course covers 7 topics, and for each we will publish here some suggested reading, normally one academic paper, and something like a blog or article by a current practitioner or company.
 
+For more general information see: http://softengindustry.github.io/
+
 ## Topics
 
 - Topic 1 : [Mock Objects](https://github.com/softengindustry/Topics/blob/master/1-Mock-Obects.md)
