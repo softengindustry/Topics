@@ -11,7 +11,7 @@ Now read this article by Martin Fowler: http://martinfowler.com/articles/mocksAr
 
 Think about the following questions:
 
-• Does TDD with Mock Objects lead us to more maintainable designs?
-• To what degree does TDD with Mock Objects allow us to test our software better?
-• Different mock object libraries have very different styles - some are very strict whereas the others are much more lenient - which do you feel is more powerful?
-• What do you consider to be best practices and worst practices when using mock objects?
+- Does TDD with Mock Objects lead us to more maintainable designs?
+- To what degree does TDD with Mock Objects allow us to test our software better?
+- Different mock object libraries have very different styles - some are very strict whereas the others are much more lenient - which do you feel is more powerful?
+- What do you consider to be best practices and worst practices when using mock objects?
