@@ -10,4 +10,4 @@ For more general information see: http://softengindustry.github.io/
 
 - Topic 1 : [Mock Objects](https://github.com/softengindustry/Topics/blob/master/1-Mock-Obects.md)
 
-Next topic will start Jan 25th (two weeks for the first topic to get us started).
+- Topic 2 : [Working with Legacy Code](https://github.com/softengindustry/Topics/blob/master/2-Legacy-Code.md)
