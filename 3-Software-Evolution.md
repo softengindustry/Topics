@@ -4,7 +4,7 @@ Starting Monday Feb 1st
 
 ## Suggested Reading
 
-First of all, read David Parnas’ classic paper on Software Aging: http://www.inf.ed.ac.uk/teaching/ courses/seoc/2004_2005/resources/bullet11.pdf
+First of all, read David Parnas’ classic paper on Software Aging: http://www.inf.ed.ac.uk/teaching/courses/seoc/2004_2005/resources/bullet11.pdf
 
 In light of this, have a look at this more recent case study from SoundCloud, migrating from a monolithic application to small services. http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html
 
