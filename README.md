@@ -13,3 +13,5 @@ For more general information see: http://softengindustry.github.io/
 - Topic 2 : [Working with Legacy Code](https://github.com/softengindustry/Topics/blob/master/2-Legacy-Code.md)
 
 - Topic 3 : [Software Evolution](https://github.com/softengindustry/Topics/blob/master/3-Software-Evolution.md)
+
+- Topic 4 : [Software Architecture](https://github.com/softengindustry/Topics/blob/master/4-Software-Architecture.md)
