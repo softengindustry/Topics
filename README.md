@@ -15,3 +15,5 @@ For more general information see: http://softengindustry.github.io/
 - Topic 3 : [Software Evolution](https://github.com/softengindustry/Topics/blob/master/3-Software-Evolution.md)
 
 - Topic 4 : [Software Architecture](https://github.com/softengindustry/Topics/blob/master/4-Software-Architecture.md)
+
+- Topic 5 : [Continuous Delivery](https://github.com/softengindustry/Topics/blob/master/5-Continuous-Delivery.md)
