@@ -17,3 +17,5 @@ For more general information see: http://softengindustry.github.io/
 - Topic 4 : [Software Architecture](https://github.com/softengindustry/Topics/blob/master/4-Software-Architecture.md)
 
 - Topic 5 : [Continuous Delivery](https://github.com/softengindustry/Topics/blob/master/5-Continuous-Delivery.md)
+
+- Topic 6 : [Static vs Dynamic Analysis](https://github.com/softengindustry/Topics/blob/master/6-Static-vs-Dynamic.md)
