@@ -19,3 +19,5 @@ For more general information see: http://softengindustry.github.io/
 - Topic 5 : [Continuous Delivery](https://github.com/softengindustry/Topics/blob/master/5-Continuous-Delivery.md)
 
 - Topic 6 : [Static vs Dynamic Analysis](https://github.com/softengindustry/Topics/blob/master/6-Static-vs-Dynamic.md)
+
+- Topic 7 : [Resilience at Scale](https://github.com/softengindustry/Topics/blob/master/7-Resilience-at-Scale.md)
