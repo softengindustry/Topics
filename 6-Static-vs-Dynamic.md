@@ -6,7 +6,7 @@ Starting Monday Feb 22nd
 
 Start by reading this paper by the inventors of Infer (now acquired by Facebook): 
 
-https:// research.facebook.com/publications/422671501231772/moving-fast-with-software-verification/
+https://research.facebook.com/publications/422671501231772/moving-fast-with-software-verification/
 
 We suggest you don't worry about understanding the formalism - concentrate on how it fits into the development process.
 
